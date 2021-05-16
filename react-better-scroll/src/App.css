@@ -1,0 +1,21 @@
+.App {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+}
+
+.top {
+  height: 100px;
+  border-bottom: 20px solid #ccc;
+}
+
+.bot {
+  overflow: hidden;
+}
+
+li {
+  line-height: 100px;
+}
