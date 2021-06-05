@@ -1,0 +1,3 @@
+.m-search-header{padding: .5rem 1rem .5rem .25rem;}
+    .m-search-header input{width: 100%;height: 1.5rem;line-height: 1.5rem;background: none;border-bottom: 1px solid #F3B3AF;font-size: .7rem;color: #fff;}
+    .m-search-header input::placeholder{color: #F2817C;}
